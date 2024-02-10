@@ -1,6 +1,8 @@
 # Phakamisa
 Project Title: Phakamisa Community Empowerment Android App
 
+Tech stack: Android Studio(JAVA and XML), Firebase
+
 Description: Phakamisa is a community empowerment Android application designed to strengthen and connect communities in South Africa. Focused on fostering positive change, Phakamisa addresses key societal challenges by facilitating food and clothes redistribution, volunteer matchmaking, and reporting infrastructure issues. The app serves as a platform for individuals and communities to collaborate, support one another, and respond effectively to emergencies and natural disasters.
 
 Key Features: 
